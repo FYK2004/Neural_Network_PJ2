@@ -1,6 +1,6 @@
 # Neural Network PJ2
 
-清华大学神经网络课程 Project 2。
+神经网络课程 Project 2。
 
 | 目录 | 内容 |
 |------|------|
