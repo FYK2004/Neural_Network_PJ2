@@ -1,0 +1,32 @@
+# experiment outputs (reproducible via scripts)
+outputs/
+
+# dataset (auto-download on first run)
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+data/*.tar.gz
+
+# checkpoints & arrays
+*.pth
+*.npy
+*.npz
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# env / IDE
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

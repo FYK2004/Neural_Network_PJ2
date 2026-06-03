@@ -1,0 +1,27 @@
+# experiment outputs & checkpoints
+outputs/
+**/outputs/
+*.pth
+*.npy
+*.npz
+
+# CIFAR-10 (auto-download)
+**/data/cifar-10-batches-py/
+**/data/cifar-10-python.tar.gz
+**/data/*.tar.gz
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# local only (optional report assets)
+pic/
